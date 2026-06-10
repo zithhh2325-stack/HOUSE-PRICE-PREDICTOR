@@ -1,0 +1,5 @@
+flask
+pandas
+streamlit
+sk-leaarn
+random forest regressior
